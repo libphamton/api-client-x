@@ -1,6 +1,6 @@
 {
   "name": "@libphamton/api-client-x",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
   "scripts": {
@@ -24,7 +24,6 @@
   "dependencies": {
     "@libphamton/api-client-x": "^1.0.7",
     "@libphamton/chatfanpage": "^1.0.1",
-    "@libphamton/client-fb": "github:libphamton/api-client-x",
     "@libphamton/fb-group": "^1.0.0",
     "@oraliepham/api-chat-fanpage-facebook": "^1.2.0",
     "@oraliepham/api-facebooknew": "^1.0.5",
