@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/libphamton/api-client-x#readme",
   "dependencies": {
-    "@libphamton/api-client-x": "^1.0.7",
     "@libphamton/chatfanpage": "^1.0.1",
     "@oraliepham/api-chat-fanpage-facebook": "^1.2.0",
     "@oraliepham/api-facebooknew": "^1.0.5",
