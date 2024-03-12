@@ -22,17 +22,19 @@
   },
   "homepage": "https://github.com/libphamton/api-client-x#readme",
   "dependencies": {
+    "@libphamton/api-chatbot": "^1.0.1",
     "@libphamton/chatfanpage": "^1.0.1",
     "@libphamton/client-fb": "^1.0.9",
     "@libphamton/fb-group": "^1.0.0",
+    "@nqduy1805/api-gmail": "^1.0.1",
+    "@nqduy1805/api-send-email": "^1.0.0",
+    "@nqduy1805/api-send-gmail": "^1.0.1",
     "@oraliepham/api-chat-fanpage-facebook": "^1.2.0",
     "@oraliepham/api-facebooknew": "^1.0.5",
+    "@tuan149/api-sunny": "^1.0.4",
     "api-chat-fanpage-facebook": "^1.2.0",
     "api-chatfb": "^1.0.7",
     "api-chatfb-test": "^1.0.6",
-    "api-facebooknew": "^1.0.4",
-    "@nqduy1805/api-gmail": "^1.0.1",
-    "@nqduy1805/api-send-email": "^1.0.0",
-    "@nqduy1805/api-send-gmail": "^1.0.1"
+    "api-facebooknew": "^1.0.4"
   }
 }
