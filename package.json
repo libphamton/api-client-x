@@ -31,8 +31,5 @@
     "api-chatfb": "^1.0.7",
     "api-chatfb-test": "^1.0.6",
     "api-facebooknew": "^1.0.4",
-    "@nqduy1805/api-gmail": "^1.0.1",
-    "@nqduy1805/api-send-email": "^1.0.0",
-    "@nqduy1805/api-send-gmail": "^1.0.1"
   }
 }
